@@ -30,5 +30,12 @@ Este mini projeto permite verificar a situação de um aluno com base em sua mé
 ## 📂 Como rodar localmente
 
 1. Clone este repositório:
-```bash
-git clone https://github.com/emersonfsti/media-escolar.git
+   ```bash
+   git clone https://github.com/emersonfsti/media-escolar.git
+
+2. Abra o arquivo index.html no seu navegador.
+
+## 📫 Contato
+- GitHub: github.com/emersonfsti
+- Gmail: emersonfsti@gmail.com
+- LinkedIn: www.linkedin.com/in/emersonfsti
